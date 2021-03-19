@@ -1,0 +1,8 @@
+1 - Thingspeak'de my channels'ta yeni kanal oluşturduk
+1.1 - Field 1'e potansiyometre yazdık ve başka hiçbir şeye dokunmadan save channel'a bastık
+NOT: Thingspeak'in bir kütüphanesi ve arduino için. Bu kütüphanede thingspeak için gereken ne varsa var. Kod yazmamıza gerek yok, her şey içerde
+2 - Örneklerden ThingSpeak - ESP8266 seçicez (via at commands, write single field)
+3 - Secrets sekmesinde wifi adı şifresi,
+Channel ID için channel settings,
+Write API key için yine site sekmesinde var.
+4 - ESP8266 bağlantısı yapıcaz, sonrasında devreye potansiyometre bağlayıp potansiyometrenin değerini okutucaz
