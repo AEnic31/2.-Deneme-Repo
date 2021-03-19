@@ -6,3 +6,5 @@ NOT: Thingspeak'in bir kütüphanesi ve arduino için. Bu kütüphanede thingspe
 Channel ID için channel settings,
 Write API key için yine site sekmesinde var.
 4 - ESP8266 bağlantısı yapıcaz, sonrasında devreye potansiyometre bağlayıp potansiyometrenin değerini okutucaz
+
+BUM BE
